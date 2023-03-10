@@ -1,8 +1,10 @@
 This repo is just intended to be a playground for learning new technologies and testing ideas.
 
--- Current technology to explore --
-NextJS
-TypeScript
-Python
+-- New Technology to Explore --  
+NextJS  
+TypeScript  
+Python  
 
--- Ideas/Questions --
+-- Ideas/Questions/Concepts to Explore --  
+Recursion
+DSA
